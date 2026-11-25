@@ -1,0 +1,8 @@
+.venv/
+.texlive/
+.build/
+__pycache__/
+.DS_Store
+recordings/*
+!recordings/.gitkeep
+output/*Preview*
