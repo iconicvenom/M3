@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1WT7qjMyfjyPLi0oyjc64lrNIQ6IWY4d7/view?usp=sharing" target="_blank">
-    <img src="https://google.com" alt="Watch the video" width="700" />
+    <img src="https://drive.google.com/file/d/1_OSQM759yfjAjynLWUmNSs8tPvlf-3xu/view?usp=drive_link" alt="Watch the video" width="700" />
   </a>
   <br>
   <em>Click the image above to watch the video on Google Drive</em>
