@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://drive.google.com/file/d/1WT7qjMyfjyPLi0oyjc64lrNIQ6IWY4d7/view?usp=sharing" target="_blank">
+    <img src="https://google.com" alt="Watch the video" width="700" />
+  </a>
+  <br>
+  <em>Click the image above to watch the video on Google Drive</em>
+</p>
+
+
+
 # What Is a Vector? — One Robot, Two Numbers, One Arrow
 
 M3 topic: linear combinations in the plane. Predict a robot's final position by adding its displacements and scaling its commands. The robot's centre is its tracked position. The solid arrows show movements. Dashed guides measure components in fixed world axes.
